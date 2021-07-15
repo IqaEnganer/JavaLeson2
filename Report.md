@@ -18,7 +18,7 @@
 5. Скомпелировать код и узнать результат 
 6. Запушить данные в GitHub
 #### В процессе тестирования использовались следующие артефакты*:
-* <code>[Чек лист](https://docs.google.com/spreadsheets/d/1HADaxv1bQrYJBCvPuCzXI2jw9Lv2QnISc3DW-pGcp4o/edit#gid=0) </code>
+* <code>[Тест кейс](https://docs.google.com/spreadsheets/d/1HADaxv1bQrYJBCvPuCzXI2jw9Lv2QnISc3DW-pGcp4o/edit#gid=0) </code>
 
 ### В качестве тестовых данных использовались данные
 <pre> 
